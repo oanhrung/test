@@ -14,7 +14,7 @@
 #include <cstdlib>
 
 using namespace std;
-usign asdfkasd;
+
 
 /*
  * 
